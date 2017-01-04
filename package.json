@@ -1,0 +1,11 @@
+{
+  "name": "eslint-preset-mobinteg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.12.2",
+    "eslint-plugin-react": "^6.8.0"
+  }
+}
