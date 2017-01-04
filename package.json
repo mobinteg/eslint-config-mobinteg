@@ -1,5 +1,5 @@
 {
-  "name": "eslint-preset-mobinteg",
+  "name": "eslint-config-mobinteg",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
